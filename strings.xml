@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Ukraine Quiz</string>
+
+    <string name="category_name">Ukraine Quiz Questions</string>
+
+    <string name="question1">QUESTION №1</string>
+    <string name="question2">QUESTION №2</string>
+    <string name="question3">QUESTION №3</string>
+    <string name="question4">QUESTION №4</string>
+    <string name="question5">QUESTION №5</string>
+
+    <string name="question1_text">What year did Ukraine join the World Trade Organization?</string>
+    <string name="type_here">Type here</string>
+
+    <string name="question2_text">With which country will Ukraine co-host the 2012 European football championship?</string>
+    <string name="capital1">Moldova</string>
+    <string name="capital2">Poland</string>
+    <string name="capital3">Russia</string>
+    <string name="capital4">Belarus</string>
+
+    <string name="question3_text">Who was the president of Ukraine?</string>
+    <string name="person1">Viktor Yushchenko</string>
+    <string name="person2">Yulia Tymoshenko</string>
+    <string name="person3">Pavlo Lazarenko</string>
+    <string name="person4">Leonid Kravchuk</string>
+    <string name="person5">Leonid Kuchma</string>
+    <string name="person6">Mykola Azarov</string>
+
+    <string name="question4_text">Ukraine consists of </string>
+    <string name="question4_text2">regions</string>
+    <string name="question4_text3">which are </string>
+    <string name="question4_text4"> oblasts (provinces).</string>
+    <string name="enter_number">number</string>
+
+    <string name="question5_text">Which is the state coat of arms of Ukraine?</string>
+
+    <string name="submit">submit</string>
+
+</resources>
